@@ -1,0 +1,11 @@
+commit 76f6fe2f902ef1ddc741f25b665f1669b586b59e
+Author: Eduard <angelmaster.ag@gmail.com>
+Date:   Wed May 17 23:19:46 2017 -0600
+
+    diseño de formulario
+
+commit 94a072ee325cedacd18dcf7a51d7021eda85c374
+Author: Eduard <angelmaster.ag@gmail.com>
+Date:   Wed May 17 12:15:03 2017 -0600
+
+    Iniciamos
